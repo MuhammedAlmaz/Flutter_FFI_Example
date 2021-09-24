@@ -1,4 +1,4 @@
-# Flutter Video Stream App Sample Project
+# Flutter FFI Example
 
 ![](screen_record.gif)
 
