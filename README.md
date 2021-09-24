@@ -1,6 +1,6 @@
 # Flutter Video Stream App Sample Project
 
-![](project_video.mp4)
+![](screen_record.mp4)
 
 ``information``
 
