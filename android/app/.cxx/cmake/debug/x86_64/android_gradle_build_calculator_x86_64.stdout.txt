@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/muhammedalmaz/workspace/ffi_example/android/app/.cxx/cmake/debug/x86_64'
+[1/2] Building CXX object CMakeFiles/calculator.dir/Users/muhammedalmaz/workspace/ffi_example/ffi_classes/calculator.cpp.o
+[2/2] Linking CXX shared library /Users/muhammedalmaz/workspace/ffi_example/build/app/intermediates/cmake/debug/obj/x86_64/libcalculator.so

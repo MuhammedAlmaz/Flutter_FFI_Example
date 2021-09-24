@@ -1,0 +1,7 @@
+# ninja log v5
+0	25	1631523269	CMakeFiles/calculator.dir/Users/muhammedalmaz/workspace/ffi_example/ios/Classes/calculator.cpp.o	e7b8afdae6df4e2d
+25	56	1631523269	/Users/muhammedalmaz/workspace/ffi_example/build/app/intermediates/cmake/debug/obj/x86_64/libcalculator.so	1b2c096b099198f5
+0	27	1631541932	CMakeFiles/calculator.dir/Users/muhammedalmaz/workspace/ffi_example/ffi_classes/calculator.cpp.o	f7b21b86f90ae5
+27	69	1631541932	/Users/muhammedalmaz/workspace/ffi_example/build/app/intermediates/cmake/debug/obj/x86_64/libcalculator.so	30afe5222b47915c
+1	38	1632473052	CMakeFiles/calculator.dir/Users/muhammedalmaz/workspace/ffi_example/ffi_classes/calculator.cpp.o	f7b21b86f90ae5
+38	90	1632473052	/Users/muhammedalmaz/workspace/ffi_example/build/app/intermediates/cmake/debug/obj/x86_64/libcalculator.so	30afe5222b47915c

@@ -1,0 +1,8 @@
+{
+  "ndkVersionFromDsl": "23.0.7599858",
+  "ndkDirProperty": "~/Library/Android/sdk/ndk-bundle",
+  "sdkFolder": "/Users/muhammedalmaz/Library/Android/sdk",
+  "sideBySideNdkFolderNames": [
+    "21.1.6352462"
+  ]
+}
